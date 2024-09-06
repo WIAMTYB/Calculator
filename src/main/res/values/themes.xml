@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Simplecalcul" parent="Theme.Material3.DayNight">
+        <item name="android:logo">@drawable/calcul</item> <!-- Remplacez mon_logo par le nom de votre icône -->
+    </style>
+
+    <style name="Theme.Simplecalcul" parent="Base.Theme.Simplecalcul" />
+</resources>
